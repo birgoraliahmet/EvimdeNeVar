@@ -1,0 +1,68 @@
+[
+  {
+    "id": "cat_sebzeler",
+    "name": "Sebzeler",
+    "items": [
+      { "id": "ing_domates", "name": "Domates" },
+      { "id": "ing_sogan", "name": "Soğan" },
+      { "id": "ing_sarmisak", "name": "Sarımsak" },
+      { "id": "ing_yesil_biber", "name": "Yeşil Biber" },
+      { "id": "ing_patates", "name": "Patates" },
+      { "id": "ing_patlican", "name": "Patlıcan" },
+      { "id": "ing_kabak", "name": "Kabak" },
+      { "id": "ing_havuc", "name": "Havuç" },
+      { "id": "ing_ispanak", "name": "Ispanak" },
+      { "id": "ing_mantar", "name": "Mantar" }
+    ]
+  },
+  {
+    "id": "cat_et_sut",
+    "name": "Et & Süt Ürünleri",
+    "items": [
+      { "id": "ing_kiyma", "name": "Kıyma" },
+      { "id": "ing_kusbasi_et", "name": "Kuşbaşı Et" },
+      { "id": "ing_tavuk_gogsu", "name": "Tavuk Göğsü" },
+      { "id": "ing_sucuk", "name": "Sucuk" },
+      { "id": "ing_sosis", "name": "Sosis" },
+      { "id": "ing_yumurta", "name": "Yumurta" },
+      { "id": "ing_sut", "name": "Süt" },
+      { "id": "ing_kasar", "name": "Kaşar Peyniri" },
+      { "id": "ing_beyaz_peynir", "name": "Beyaz Peynir" },
+      { "id": "ing_tereyagi", "name": "Tereyağı" },
+      { "id": "ing_yogurt", "name": "Yoğurt" }
+    ]
+  },
+  {
+    "id": "cat_bakliyat",
+    "name": "Bakliyat & Tahıllar",
+    "items": [
+      { "id": "ing_pirinc", "name": "Pirinç" },
+      { "id": "ing_bulgur", "name": "Bulgur" },
+      { "id": "ing_kirmizi_mercimek", "name": "Kırmızı Mercimek" },
+      { "id": "ing_yesil_mercimek", "name": "Yeşil Mercimek" },
+      { "id": "ing_nohut", "name": "Nohut" },
+      { "id": "ing_kurufasulye", "name": "Kuru Fasulye" },
+      { "id": "ing_makarna", "name": "Makarna" },
+      { "id": "ing_tel_sehriye", "name": "Tel Şehriye" },
+      { "id": "ing_arpa_sehriye", "name": "Arpa Şehriye" }
+    ]
+  },
+  {
+    "id": "cat_temel",
+    "name": "Temel Malzemeler",
+    "items": [
+      { "id": "ing_sivi_yag", "name": "Sıvı Yağ" },
+      { "id": "ing_zeytinyagi", "name": "Zeytinyağı" },
+      { "id": "ing_salca", "name": "Domates Salçası" },
+      { "id": "ing_biber_salcasi", "name": "Biber Salçası" },
+      { "id": "ing_un", "name": "Un" },
+      { "id": "ing_tuz", "name": "Tuz" },
+      { "id": "ing_karabiber", "name": "Karabiber" },
+      { "id": "ing_pul_biber", "name": "Pul Biber" },
+      { "id": "ing_kuru_nane", "name": "Kuru Nane" },
+      { "id": "ing_kekik", "name": "Kekik" },
+      { "id": "ing_kimyon", "name": "Kimyon" },
+      { "id": "ing_seker", "name": "Toz Şeker" }
+    ]
+  }
+]

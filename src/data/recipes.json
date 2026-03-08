@@ -1,0 +1,429 @@
+[
+    {
+        "id": "rec_menemen",
+        "name": "Menemen",
+        "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2016/08/menemen-tarifi.jpg",
+        "prepTime": "15 dk",
+        "cookTime": "10 dk",
+        "servings": "2 kişilik",
+        "ingredients": [
+            {
+                "id": "ing_domates",
+                "amount": "3 adet"
+            },
+            {
+                "id": "ing_yesil_biber",
+                "amount": "2 adet"
+            },
+            {
+                "id": "ing_yumurta",
+                "amount": "2 adet"
+            },
+            {
+                "id": "ing_tuz",
+                "amount": "1 çay kaşığı"
+            },
+            {
+                "id": "ing_sivi_yag",
+                "amount": "2 yemek kaşığı"
+            },
+            {
+                "id": "ing_tereyagi",
+                "amount": "1 yemek kaşığı"
+            }
+        ],
+        "steps": [
+            "Biberleri küçük küçük doğrayın.",
+            "Tavaya sıvı yağ ve tereyağını alıp biberleri kavurun.",
+            "Domateslerin kabuklarını soyup küp küp doğrayın ve biberlerin üzerine ekleyin.",
+            "Domatesler suyunu çekene kadar pişirin, tuzunu ekleyin.",
+            "Yumurtaları üzerine kırıp istediğiniz kıvama gelene kadar pişirin."
+        ]
+    },
+    {
+        "id": "rec_kiymali_makarna",
+        "name": "Kıymalı Makarna",
+        "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2021/05/kiymali-makarna-one-cikan.jpg",
+        "prepTime": "10 dk",
+        "cookTime": "20 dk",
+        "servings": "4 kişilik",
+        "ingredients": [
+            {
+                "id": "ing_makarna",
+                "amount": "1 paket"
+            },
+            {
+                "id": "ing_kiyma",
+                "amount": "250 gram"
+            },
+            {
+                "id": "ing_sogan",
+                "amount": "1 adet"
+            },
+            {
+                "id": "ing_salca",
+                "amount": "1 yemek kaşığı"
+            },
+            {
+                "id": "ing_sivi_yag",
+                "amount": "3 yemek kaşığı"
+            },
+            {
+                "id": "ing_tuz",
+                "amount": "Göz kararı"
+            },
+            {
+                "id": "ing_karaiber",
+                "amount": "1 çay kaşığı"
+            }
+        ],
+        "steps": [
+            "Makarnayı tuzlu kaynar suda haşlayın ve süzün.",
+            "Ayrı bir tavada sıvı yağda yemeklik doğranmış soğanı kavurun.",
+            "Kıymayı ekleyip rengi dönene kadar kavurmaya devam edin.",
+            "Salça, tuz ve baharatları ekleyip birkaç dakika daha kavurun.",
+            "Haşlanmış makarnayı kıymalı sosla karıştırın."
+        ]
+    },
+    {
+        "id": "rec_patatesli_yumurta",
+        "name": "Patatesli Yumurta",
+        "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2016/09/patatesli-yumurta-tarifi1.jpg",
+        "prepTime": "10 dk",
+        "cookTime": "15 dk",
+        "servings": "2 kişilik",
+        "ingredients": [
+            {
+                "id": "ing_patates",
+                "amount": "2 adet"
+            },
+            {
+                "id": "ing_yumurta",
+                "amount": "3 adet"
+            },
+            {
+                "id": "ing_sivi_yag",
+                "amount": "3 yemek kaşığı"
+            },
+            {
+                "id": "ing_tuz",
+                "amount": "1 çay kaşığı"
+            },
+            {
+                "id": "ing_pul_biber",
+                "amount": "1 çay kaşığı"
+            }
+        ],
+        "steps": [
+            "Patatesleri soyup küp küp doğrayın.",
+            "Tavaya yağı alıp patatesleri kızarana kadar pişirin.",
+            "Yumurtaları bir kasede tuz ve baharatla çırpın.",
+            "Kızaran patateslerin üzerine yumurtayı dökün.",
+            "Yumurtalar pişene kadar ocakta tutun ve sıcak servis yapın."
+        ]
+    },
+    {
+        "id": "rec_sehriyeli_pirinc_pilavi",
+        "name": "Şehriyeli Pirinç Pilavı",
+        "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2022/10/sehriyeli-pirinc-pilavi-yemekcom.jpg",
+        "prepTime": "15 dk",
+        "cookTime": "20 dk",
+        "servings": "4 kişilik",
+        "ingredients": [
+            {
+                "id": "ing_pirinc",
+                "amount": "2 su bardağı"
+            },
+            {
+                "id": "ing_arpa_sehriye",
+                "amount": "Yarım çay bardağı"
+            },
+            {
+                "id": "ing_tereyagi",
+                "amount": "2 yemek kaşığı"
+            },
+            {
+                "id": "ing_sivi_yag",
+                "amount": "2 yemek kaşığı"
+            },
+            {
+                "id": "ing_tuz",
+                "amount": "1 tatlı kaşığı"
+            }
+        ],
+        "steps": [
+            "Pirinçleri ılık suda 15 dakika ıslatıp yıkayın, süzün.",
+            "Pilav tenceresine sıvı yağ ve tereyağını ekleyin.",
+            "Arpa şehriyeleri pembeleşene kadar kavurun.",
+            "Pirinçleri ekleyip tane tane olana kadar kavurmaya devam edin.",
+            "Tuz ve 3 su bardağı sıcak su ekleyip kapağını kapatın, suyunu çekene kadar pişirin."
+        ]
+    },
+    {
+        "id": "rec_tavuk_sote",
+        "name": "Tavuk Sote",
+        "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2015/12/tavuk-sote-yeni-gorsel-2.jpg",
+        "prepTime": "15 dk",
+        "cookTime": "25 dk",
+        "servings": "4 kişilik",
+        "ingredients": [
+            {
+                "id": "ing_tavuk_gogsu",
+                "amount": "500 gram"
+            },
+            {
+                "id": "ing_sogan",
+                "amount": "1 adet"
+            },
+            {
+                "id": "ing_yesil_biber",
+                "amount": "2 adet"
+            },
+            {
+                "id": "ing_domates",
+                "amount": "2 adet"
+            },
+            {
+                "id": "ing_salca",
+                "amount": "1 yemek kaşığı"
+            },
+            {
+                "id": "ing_sivi_yag",
+                "amount": "3 yemek kaşığı"
+            },
+            {
+                "id": "ing_tuz",
+                "amount": "1 çay kaşığı"
+            },
+            {
+                "id": "ing_karabiber",
+                "amount": "1 çay kaşığı"
+            }
+        ],
+        "steps": [
+            "Tavukları küp küp doğrayın.",
+            "Tavaya sıvı yağı alın, tavukları ekleyip suyunu salıp çekene kadar soteleyin.",
+            "Doğranmış soğan ve biberleri ekleyip kavurmaya devam edin.",
+            "Salçayı ilave edip kokusu çıkana kadar kavurun.",
+            "Küp doğranmış domatesleri ve baharatları ekleyin.",
+            "Yarım su bardağı sıcak su ekleyip 10-15 dakika pişirin."
+        ]
+    },
+    {
+        "id": "rec_mercimek_corbasi",
+        "name": "Süzme Mercimek Çorbası",
+        "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2015/05/suzme-mercimek-corbasi-yemekcom.jpg",
+        "prepTime": "10 dk",
+        "cookTime": "30 dk",
+        "servings": "6 kişilik",
+        "ingredients": [
+            {
+                "id": "ing_kirmizi_mercimek",
+                "amount": "1.5 su bardağı"
+            },
+            {
+                "id": "ing_sogan",
+                "amount": "1 adet"
+            },
+            {
+                "id": "ing_patates",
+                "amount": "1 adet"
+            },
+            {
+                "id": "ing_havuc",
+                "amount": "1 adet"
+            },
+            {
+                "id": "ing_sivi_yag",
+                "amount": "2 yemek kaşığı"
+            },
+            {
+                "id": "ing_tuz",
+                "amount": "1 tatlı kaşığı"
+            },
+            {
+                "id": "ing_tereyagi",
+                "amount": "1 yemek kaşığı"
+            },
+            {
+                "id": "ing_pul_biber",
+                "amount": "1 tatlı kaşığı"
+            }
+        ],
+        "steps": [
+            "Soğan, patates ve havucu iri parçalar halinde doğrayın.",
+            "Tencereye sıvı yağı alıp sebzeleri biraz kavurun.",
+            "Yıkanmış mercimekleri ekleyin.",
+            "Üzerini 3-4 parmak geçecek kadar sıcak su ekleyip sebzeler yumuşayana kadar kaynatın.",
+            "Blenderdan geçirip pürüzsüz hale getirin, tuzunu ayarlayın.",
+            "Servis yaparken tereyağında kızdırılmış pul biberi üzerine gezdirin."
+        ]
+    },
+    {
+        "id": "rec_sucuklu_yumurta",
+        "name": "Sucuklu Yumurta",
+        "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2019/04/sucuklu-yumurta-tarifi.jpg",
+        "prepTime": "5 dk",
+        "cookTime": "10 dk",
+        "servings": "2 kişilik",
+        "ingredients": [
+            {
+                "id": "ing_sucuk",
+                "amount": "Yarım kangal"
+            },
+            {
+                "id": "ing_yumurta",
+                "amount": "2 adet"
+            },
+            {
+                "id": "ing_tereyagi",
+                "amount": "1 tatlı kaşığı"
+            },
+            {
+                "id": "ing_pul_biber",
+                "amount": "İsteğe bağlı"
+            }
+        ],
+        "steps": [
+            "Sucukları dilimleyin.",
+            "Tavaya tereyağını alın ve eritin.",
+            "Sucukları ekleyip iki taraflı hafif kızartın.",
+            "Yumurtaları üzerine kırın, kapağını kapatıp istediğiniz kıvama gelene kadar pişirin."
+        ]
+    },
+    {
+        "id": "rec_firinda_patatesli_tavuk",
+        "name": "Fırında Patatesli Tavuk",
+        "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2021/01/firinda-tavuk-patates-tarifi-yemekcom.jpg",
+        "prepTime": "15 dk",
+        "cookTime": "45 dk",
+        "servings": "4 kişilik",
+        "ingredients": [
+            {
+                "id": "ing_tavuk_gogsu",
+                "amount": "500 gram (İstenirse baget de olur)"
+            },
+            {
+                "id": "ing_patates",
+                "amount": "3 adet"
+            },
+            {
+                "id": "ing_salca",
+                "amount": "1 yemek kaşığı"
+            },
+            {
+                "id": "ing_sivi_yag",
+                "amount": "4 yemek kaşığı"
+            },
+            {
+                "id": "ing_sarmisak",
+                "amount": "2 diş"
+            },
+            {
+                "id": "ing_tuz",
+                "amount": "1 çay kaşığı"
+            },
+            {
+                "id": "ing_kekik",
+                "amount": "1 tatlı kaşığı"
+            }
+        ],
+        "steps": [
+            "Patatesleri elma dilimi şeklinde kesin.",
+            "Tavukları iri iri parçalar halinde doğrayın.",
+            "Geniş bir kapta sıvı yağ, salça, ezilmiş sarımsak, tuz ve kekikle sos hazırlayın.",
+            "Tavuk ve patatesleri sosa bulayıp fırın tepsisine dizin.",
+            "Önceden ısıtılmış 190 derece fırında kızarana kadar pişirin."
+        ]
+    },
+    {
+        "id": "rec_domates_corbasi",
+        "name": "Kremasız Domates Çorbası",
+        "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2014/10/kolay-domates-corbasi-onecikan.jpg",
+        "prepTime": "10 dk",
+        "cookTime": "20 dk",
+        "servings": "4 kişilik",
+        "ingredients": [
+            {
+                "id": "ing_domates",
+                "amount": "4 adet"
+            },
+            {
+                "id": "ing_un",
+                "amount": "2 yemek kaşığı"
+            },
+            {
+                "id": "ing_tereyagi",
+                "amount": "2 yemek kaşığı"
+            },
+            {
+                "id": "ing_salca",
+                "amount": "1 tatlı kaşığı"
+            },
+            {
+                "id": "ing_sut",
+                "amount": "1 su bardağı"
+            },
+            {
+                "id": "ing_tuz",
+                "amount": "1 çay kaşığı"
+            },
+            {
+                "id": "ing_kasar",
+                "amount": "Servis için rende"
+            }
+        ],
+        "steps": [
+            "Tencerede tereyağını eritin, unu ekleyip kokusu çıkana kadar kavurun.",
+            "Rendelenmiş domatesleri ve salçayı ekleyip kavurmaya devam edin.",
+            "Üzerine yavaş yavaş 4 su bardağı sıcak suyu ekleyip kaynamaya bırakın.",
+            "Et suyu da ekleyebilirsiniz. Kaynayan çorbayı blenderdan geçirin.",
+            "Üzerine sütü ve tuzunu ekleyip bir taşım daha kaynatıp altını kapatın.",
+            "Üzerine taze rendelenmiş kaşar peyniri serpip servis edin."
+        ]
+    },
+    {
+        "id": "rec_yogurtlu_soslu_makarna",
+        "name": "Yoğurtlu Soslu Makarna",
+        "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2015/10/salcali-eksili-makarna-yemekcom.jpg",
+        "prepTime": "5 dk",
+        "cookTime": "15 dk",
+        "servings": "4 kişilik",
+        "ingredients": [
+            {
+                "id": "ing_makarna",
+                "amount": "1 paket"
+            },
+            {
+                "id": "ing_yogurt",
+                "amount": "2 su bardağı"
+            },
+            {
+                "id": "ing_sarmisak",
+                "amount": "2 diş"
+            },
+            {
+                "id": "ing_tereyagi",
+                "amount": "2 yemek kaşığı"
+            },
+            {
+                "id": "ing_salca",
+                "amount": "1 yemek kaşığı"
+            },
+            {
+                "id": "ing_nane",
+                "amount": "1 çay kaşığı"
+            },
+            {
+                "id": "ing_tuz",
+                "amount": "1 tatlı kaşığı"
+            }
+        ],
+        "steps": [
+            "Makarnayı bol tuzlu suda paket üzerindeki süre kadar haşlayın, süzün.",
+            "Derin bir kapta yoğurt, dövülmüş sarımsak ve az tuzu çırpın.",
+            "Küçük bir sos tavasında tereyağını eritin, salça ve naneyi ekleyip kokusu çıkana dek kavurun.",
+            "Haşlanmış makarnayı tabaklara alın, üzerine sarımsaklı yoğurt ve kızgın naneli salça sosunu gezdirin."
+        ]
+    }
+]
